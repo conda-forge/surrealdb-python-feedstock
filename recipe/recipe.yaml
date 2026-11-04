@@ -1,5 +1,5 @@
 context:
-  version: "2.0.0"
+  version: "3.0.0"
 
 package:
   name: surrealdb-python
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/surrealdb/surrealdb-${{ version }}.tar.gz
-  sha256: 70a2656bf5b6d844cf4c029d6e0a7309ca95b9ba282663f31c8b6e642fc8463a
+  sha256: 1b885704ac871de5d5eb8fac476a746b26fe2f2cd3e833c4c91abd11d2bdb615
 
 build:
   number: 0
